@@ -1,4 +1,4 @@
-package co.afrikreator.afrikreatorcore.dtos.wallet;
+package co.gatojunior.afrikreatorcore.dtos.wallet;
 
 import lombok.*;
 
